@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**neelesh4532/neelesh4532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Neelesh 👋
+Final-year B.Tech CSE student | Automation & full-stack developer
 
-Here are some ideas to get you started:
+## What I work on
+- Infrastructure monitoring & validation automation (Python, Bash, PowerShell)
+- Full-stack apps with React, Node.js, MongoDB
+- Generative AI tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [ReelGenAi](https://github.com/neelesh4532/ReelGenAi): AI reel generator with an async video pipeline and Instagram publishing (in progress)
+- **Car Rental Management System**: MERN full-stack app
+
+## Connect
+[LinkedIn]www.linkedin.com/in/neelesh-prajapati-aa1099301 | [neelesh123678@gmail.com]
+
